@@ -7,10 +7,11 @@ Here are some ideas to get you started:
 -->
 - 🤖 working on a discord bot
 - 🌱 learning web dev
+
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with ...  -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: cerberus#0001 on discord
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
